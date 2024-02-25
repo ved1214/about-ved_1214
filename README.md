@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ved1214&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="178" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ved1214&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="178" width="400" alt="stats graph"  />
 </div>
 
 ###
