@@ -42,16 +42,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/f9/80/8f/f9808fae9caee587466e9773e43d9c03.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/ved1214/ved1214/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ved1214/count.svg?"  />
 </div>
@@ -59,15 +49,11 @@
 ###
 
 <div align="left">
-</div>
-
-###
-
-<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ved1214&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ved1214&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ved1214&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ved1214&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ved1214&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ved1214&theme=dracula&column=4&row=5&margin-w=20&margin-h=10&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
