@@ -9,7 +9,7 @@ I have been in to geek field from 4 years ago, in this years I have Lil knowledg
 * 🌍  I'm based in Navi Mumbai
 * ✉️  You can contact me at [vedantchavare45@gmail.com](mailto:vedantchavare45@gmail.com)
 * 🧠  I'm learning Java Script, Operating System, Figma
-* 🤝  I'm open to collaborating on UI desgine, web dev
+* 🤝  I'm open to collaborating on UI design, web dev
 
 <a href="https://www.github.com/ved1214" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ved1214?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
