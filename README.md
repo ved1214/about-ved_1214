@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 a student, UI designer, web dev, data analyst.
 ----------------------------------------------
 
-I have been in to geek field from 4 years ago, in this years I have Lil knowledge about data analytics (using python), UI design, python, java, JavaScript, HTML-CSS, C.
-
+I have been in to geek field from 4 years ago, in this years I have some information about data analytics_(using python)_, UI design, python, java, JavaScript, HTML-CSS, C.
+Currently I am learning cybersecurity from TryHackMe. Profile "https://tryhackme.com/r/p/vedantchavare45" 
 * 🌍  I'm based in Navi Mumbai
 * ✉️  You can contact me at [vedantchavare45@gmail.com](mailto:vedantchavare45@gmail.com)
 * 🧠  I'm learning Operating System, Figma
