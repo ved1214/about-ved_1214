@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/ved1214?logo=github&style=for-the-b
 
 <b>My TryHackMe Stats</b>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3823511" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/vedantchavare45.png" alt="Your Image Badge" />
 
 <b>My GitHub Stats</b>
 
