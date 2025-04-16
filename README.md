@@ -29,7 +29,6 @@ src="https://img.shields.io/github/followers/ved1214?logo=github&style=for-the-b
 <b>My TryHackMe Stats</b>
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3823511" style='border:none;'></iframe>
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ved1214"><img src="https://github-readme-stats.vercel.app/api?username=ved1214&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ved1214's GitHub stats" /></a>
 
