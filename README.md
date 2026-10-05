@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vedant Chavare
 ======================================================================================================================================
 
-a student, UI designer, web dev, data analyst.
+a student, SOC analyst, UI designer, Vibecoder.
 ----------------------------------------------
 
-I have been in to geek field from 4 years ago, in this years I have some information about data analytics_(using python)_, UI design, python, java, JavaScript, HTML-CSS, C.
+I have been in to geek field from 4 years ago, in this years I have some information about data analytics_(using python)_, UI design, python, java, JavaScript, HTML-CSS, C, Basics of Networking, cryptography.
 Currently I am learning cybersecurity from TryHackMe. Profile "https://tryhackme.com/r/p/vedantchavare45" 
 * 🌍  I'm based in Navi Mumbai
 * ✉️  You can contact me at [vedantchavare45@gmail.com](mailto:vedantchavare45@gmail.com)
-* 🧠  I'm learning Operating System, Figma
+* 🧠  I'm learning Cybersecurity & app development 
 * 🤝  I'm open to collaborating on UI design, web dev
 
 <a href="https://www.github.com/ved1214" target="_blank" rel="noreferrer"><img
